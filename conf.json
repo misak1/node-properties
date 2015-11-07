@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "encoding": "utf-8",
+  "root": {
+    "foo": "value",
+    "$t": "Some content"
+  }
+}
